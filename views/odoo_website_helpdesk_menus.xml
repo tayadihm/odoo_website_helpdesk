@@ -21,7 +21,4 @@
     <menuitem id="menu_helpdesk_stage" name="Stages"
               action="ticket_stage_action"
               parent="menu_helpdesk_configuration" sequence="5"/>
-    <menuitem id="menu_helpdesk_stage" name="TEST"
-              action="ticket_stage_action"
-              parent="menu_helpdesk_configuration" sequence="5"/>          
 </odoo>
