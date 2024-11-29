@@ -91,6 +91,7 @@
                 'phone': request.params.get('phone', ''),
                 'email_from': request.params.get('email_from', ''),
                 'company': request.params.get('company', ''),
+                'division': request.params.get('division', ''),
                 'subject': request.params.get('subject', ''),
             }"/>
             <span class="hidden" data-for="contactus_form"
